@@ -78,7 +78,7 @@ This repository contains:
 
 Download model from Google Drive:
 
-👉 [PASTE YOUR DRIVE LINK HERE]
+👉 https://drive.google.com/file/d/1JYTJ5pYCZu9r2cHvVWOCYZ9KAf5d8YRx/view?usp=drive_link
 
 After downloading:
 
